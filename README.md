@@ -5,7 +5,7 @@
 [SVG](yarn-kitten-full.svg) or [PNG](yarn-kitten-full.png)
 
 <p align="center">
-  <img alt="Yarn logo" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="500"/>
+  <img alt="Yarn logo" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="802"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 [SVG](yarn-title.svg) or [PNG](yarn-title.png)
 
 <p align="center">
-  <img alt="Yarn logo (title only)" src="https://github.com/yarnpkg/assets/blob/master/yarn-title.png?raw=true" width="500"/>
+  <img alt="Yarn logo (title only)" src="https://github.com/yarnpkg/assets/blob/master/yarn-title.png?raw=true" width="809"/>
 </p>
 
 ### Logo (kitten outline in circle only)
